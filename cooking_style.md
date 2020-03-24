@@ -2,7 +2,7 @@
 
 Leo, 2020.3.21.
 
-A: Looks like your credit card bill droped a lot in recent months.
+A: Looks like your credit card bill dropped a lot in recent months.
 
 B: Yes. I didn't go to restaurants after coronavirus' breaking out. They're all closed.
 
@@ -12,15 +12,15 @@ B: Like typing, driving and writing, cooking is a skill you need to learn. As yo
 
 A: What's the doctrine you follow when cooking?
 
-B: Balanced nutrition is the key point of healthy diet. There are vegetables, meat, milk, bread, egg in my breakfast. I prefer origin tastes of food to highly cooked ones. Vegetables are plain sauted with only vegetable oil and a little salt.
+B: Balanced nutrition is the key point of healthy diet. There are vegetables, meat, milk, bread, egg in my breakfast. I prefer origin tastes of food to highly cooked ones. Vegetables are plain sauteed with only vegetable oil and a little salt.
 
 A: What's your style of food?
 
-B: Potato, hot pepper, mushroom, noodles, egg, water melon, strawberry. Any thing soft and juicy. Artificial sweetener is eveil, Last but not least, apple is your friend. Do you heard the song "An apple a day" by Aqua?
+B: Potato, hot pepper, mushroom, noodles, egg, water melon, strawberry. Any thing soft and juicy. Artificial sweetener is evil, Last but not least, apple is your friend. Have you heard the song "An apple a day" by Aqua?
 
 A: No. Why an apple a day?
 
-B: An english phrase. But actually "an apple a day won't keep the doctor away", as the song said. To a coder, the equivalent is "no silver bullet".
+B: An English phrase. But actually "an apple a day won't keep the doctor away", as the song said. To a coder, the equivalent is "no silver bullet".
 
 A: Do you like junk food or fast food?
 
@@ -36,8 +36,8 @@ B: No, I get drunk even with a little alcohol. I don't like the feeling of losin
 
 A: But sometimes people do need it to forget or escape from something.
 
-B: It make sense. But a better way is look straight at the thing you scared and figure out how to control or live with it.
+B: It makes sense. But a better way is looking straight at the thing you scared and figuring out how to control or live with it.
 
 A: Do you smoke?
 
-B: No. Cigarette won't make people more comforatble or more focused. But people sucks without it. It makes me feel bad to be slave of cigarette. Meanwhile if you don't like second-hand smoke, never make it.
+B: No. Cigarette won't make people more comfortable or more focused. But smokers sucks without it. It makes me feel bad to be slave of cigarette. Meanwhile if you don't like second-hand smoke, never make it.
