@@ -1,3 +1,3 @@
-# Communication Practice Group
+# English corner
 
-Dissuction materials by Sharon, Leo and Maggie.
+Discussion materials.

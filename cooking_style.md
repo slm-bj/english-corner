@@ -40,4 +40,4 @@ B: It makes sense. But a better way is looking straight at the thing you scared 
 
 A: Do you smoke?
 
-B: No. Cigarette won't make people more comfortable or more focused. But smokers sucks without it. It makes me feel bad to be slave of cigarette. Meanwhile if you don't like second-hand smoke, never make it.
+B: No. Cigarette won't make people more comfortable or more focused. But smokers suck without it. It makes me feel bad to be slave of cigarette. Meanwhile if you don't like second-hand smoke, never make it.
