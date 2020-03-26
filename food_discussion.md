@@ -1,6 +1,6 @@
 A: What do you prefer/like to eat/have for breakfast/at breakfast time? Do you like light meals or heavy meals at breakfast time?
 
-B: In my case, I like heavy meals at breakfast time. I eat a lot in breakfast. I could eat maybe one egg, a glass of milk, some cereal, sausage and noodles. that's why I am over weight. Heavy meal is when you eat a lot and light meal is when you eat a little simple. It's not good to have heavy meals because you gain weight.
+B: In my case, I like heavy meals at breakfast time. I eat a lot in breakfast. I could eat maybe an egg, a glass of milk, some cereal, sausage and noodles. that's why I am overweight. Heavy meal means you eat a lot and light meal means you eat a little simple. It's not good to have heavy meals because you gain weight.
 
 Phrasal verbs about food
 
