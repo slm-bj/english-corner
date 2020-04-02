@@ -12,7 +12,7 @@ With eyes that know the darkness in my soul
 B: It about one of the most famous work of Vincent van Gogh, a Dutch post-impressionist painter:
 The Starry Night, painted in June, 1889:
 
-![The Starry Night](https://en.wikipedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![The Starry Night](https://www.paintingmania.com/arts/vincent-van-gogh/large/starry-night-6_2843.jpg?version=17.11.06)
 
 You can see the Moon, the Venus and other stars on the sky of a summer night.
 Beneath the magical sky, there are shadowed hills, a cypress tree and a village.
@@ -64,7 +64,7 @@ Are smoothed beneath the artist's Loving hand
 
 B: This makes me recall his "The Potato Eaters":
 
-![The Potato Eaters](https://en.wikipedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg)
+![The Potato Eaters](https://www.vangoghstudio.com/Files/6/102000/102147/PageHomeSlideShows/w1170_900516_en.jpg)
 
 A: Now came the chorus:
 
