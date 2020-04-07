@@ -12,7 +12,7 @@ A: OK. Here we go.
 >
 > With eyes that know the darkness in my soul
 
-B: It about one of the most famous work of Vincent van Gogh, a Dutch post-impressionist painter:
+B: It is about one of the most famous work of Vincent van Gogh, a Dutch post-impressionist painter:
 The Starry Night, painted in June, 1889:
 
 ![The Starry Night](https://www.paintingmania.com/arts/vincent-van-gogh/large/starry-night-6_2843.jpg?version=17.11.06)
@@ -59,7 +59,7 @@ For example, he declared his love to his recently widowed cousin Kee,
 who was 7 years older than him, and had a eight-year-old son.
 Then he was refused with "No, nay, never".
 But as an artist, honest and sensitivity make him different.
-People perceive in him true humanity. Although this gave him so much pains.
+People perceive in his true humanity. Although this gave him so much pains.
 
 A: So some say only people feeling pains write poets. OK the 2nd section:
 
@@ -83,7 +83,7 @@ B: This makes me recall his "The Potato Eaters":
 
 ![The Potato Eaters](https://www.vangoghstudio.com/Files/6/102000/102147/PageHomeSlideShows/w1170_900516_en.jpg)
 
-A: Now came the chorus:
+A: Now comes the chorus:
 
 > Now I understand
 >
@@ -99,10 +99,10 @@ A: Now came the chorus:
 
 B: What does "chorus" mean?
 
-A: In a pop song, verse is ofen narrative, and chorus often lyrical.
-Some call chorus as song's chlimax.
+A: In a pop song, verse is often narrative, and chorus often lyrical.
+Some call chorus as song's climax.
 
-B: Looks like chorus are often repetitive.
+B: Looks like chorus is always repetitive.
 
 A: Exactly. Last paragraph of the 2nd section:
 
@@ -124,7 +124,7 @@ A: Exactly. Last paragraph of the 2nd section:
 
 B: These sentences are really heart-breaking.
 
-A: Take it easy, You know he is not alone. This world curshed so many beautiful souls,
+A: Take it easy, You know he is not alone. This world has crushed so many beautiful souls,
 and will crush more. Well, just a joke. The last section:
 
 > Starry, starry night
@@ -164,7 +164,7 @@ and will crush more. Well, just a joke. The last section:
 B: A beautiful song for a beautiful soul.
 
 A: But as the song said, most people won't listen to him.
-They are busy for money. power and fame.
+They are busy for money, power and fame.
 
 B: Diversity counts. People live in their own styles.
 Even not famous like Vincent, we are still cared and loved.
