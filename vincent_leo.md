@@ -36,7 +36,7 @@ A: Interesting. The second paragraph.
 >
 > In colors on the snowy linen land
 
-Why "the winter chills"? It's a summer nigth.
+Why "the winter chills"? It's a summer night.
 
 B: Maybe the painting makes people feel cold.
 
