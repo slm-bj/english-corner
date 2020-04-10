@@ -39,3 +39,14 @@ It's a instinct of beings. But we must try our best to avoid this.
 This the key point making us different from beasts.
 To me, the former are enemies, the latter are friends.
 No matter its nationality, race, color, sex orientation, religion, and so on.
+
+A: Finally we have agreements about the following things:
+
+We must distinguish facts from opinions in reports,
+then build our opinions based on facts.
+We chould have more varieties of information sources to build whole pictures.
+
+The facts in [the article](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html) are true.
+We agree our disagree about its opinions.
+
+People should have freedom of speech.
