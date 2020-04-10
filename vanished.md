@@ -44,7 +44,7 @@ A: Finally we have agreements about the following things:
 
 We must distinguish facts from opinions in reports,
 then build our opinions based on facts.
-We chould have more varieties of information sources to build whole pictures.
+We should have more varieties of information sources to build the whole pictures.
 
 The facts in [the article](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html) are true.
 We agree our disagree about its opinions.
