@@ -18,7 +18,7 @@ even malicious criticisms.
 A: Why we have to accept malicious criticisms, instead of fighting back?
 People will say we are cowards, we are self-abased before the westerners.
 
-B: If sharp criticisms disappear, mild criticisms will become harsh.
+B: If sharp criticisms disappear, mild ones will become harsh.
 If mild criticisms are not allowed, silence will be considered having an axe to grind.
 If silence is forbidden, dull praise is a crime.
 If only one voice is allowed to exist, it must be a lie.
@@ -44,9 +44,9 @@ A: Finally we have agreements about the following things:
 
 * We must distinguish facts from opinions in reports,
 then build our opinions based on facts.
-We should have more varieties of information sources to build the whole pictures.
+We should have more varieties of information sources to build the whole picture.
 
-* The facts in [the article](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html) are true.
-We agree our disagree about its opinions.
+* The facts in [the article](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html) are partially true.
+We agree our disagreements about its opinions.
 
 * People should have freedom of speech.
