@@ -1,6 +1,6 @@
 A: Hi [Bob], Have you read [the article](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html)?
 
-B: Hi [Alice]. I've read it. [lawyer Chen](https://www.youtube.com/watch?v=Iwpr55PZEJ8) and 
+B: Hi [Alice]. I've read it. [Lawyer Chen](https://www.youtube.com/watch?v=Iwpr55PZEJ8) and 
 [Fang Bin](https://www.youtube.com/watch?v=YUXV4Ih2xrk) published what they've seen,
 then vanished. We don't have the right of free speech here.
 
@@ -29,7 +29,7 @@ B: There are no clear borders between malicious and piercing criticisms in compl
 
 A: Friends give piercing criticisms, while enemies give malicious ones.
 
-B: Who are friends, who are enemy, who has the right to define?
+B: Who are friends, who are enemies, who has the right to define?
 
 A: Well, maybe you're right. But the fact is most people think with emotion and attitude, instead of logic and rationality.
 They are not used to analyzing what they say. They judge by commenters' identities.
