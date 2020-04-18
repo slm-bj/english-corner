@@ -30,7 +30,7 @@ Mainstream setup: GTX 1080ti: 32-bit models
 
 * I am a competitive computer vision researcher: NVIDIA Titan Xp; do not upgrade from existing Titan X (Pascal or Maxwell)
 
-* I am a researcher: GTX 1080 Ti. In some cases, like natural language processing, a GTX 1070 or GTX 1080 might also be a solid choice �� check the memory requirements of your current models
+* I am a researcher: GTX 1080 Ti. In some cases, like natural language processing, a GTX 1070 or GTX 1080 might also be a solid choice check the memory requirements of your current models
 
 * I want to build a GPU cluster: This is really complicated, you can get some ideas here
 
@@ -68,8 +68,6 @@ HRM:
 > Keep in mind that the CPU must not bottleneck the GPU.
 > For instance, an i7-7500U will work flawlessly with a GTX 1080 GPU.
 
-
-
 ### PCI-e lanes
 
 PCI-e lane denotes the maximum bandwidth that is available for graphics cards communication with the CPU.
@@ -105,7 +103,7 @@ For 1 GPU air cooling is best (FHG).
 
 Monitor setup for a data scientist by Tim Dettmers:
 
-![Monitor Setup](https://i2.wp.com/timdettmers.com/wp-content/uploads/2015/03/2015-03-04-13-58-10.jpg)
+![Monitor Setup for deep learning](https://i2.wp.com/timdettmers.com/wp-content/uploads/2015/03/2015-03-04-13-58-10.jpg)
 
 > Typical monitor layout when I do deep learning:
 >
