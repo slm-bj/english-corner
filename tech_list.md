@@ -8,7 +8,7 @@
 
 * Deep learning: computer visualization, e.g.: [DeOldify](https://github.com/jantic/DeOldify)
 
-* Quants: [The Python Quants](https://home.tpq.io/)
+* Quants: [The Python Quants](https://home.tpq.io/), [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
 * Block chain
 
