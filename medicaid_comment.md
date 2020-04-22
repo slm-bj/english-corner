@@ -18,7 +18,7 @@ Many people believe the government is their mentor, safeguard or even parent.
 To them the country is a big family.
 
 B: The government can be anything but parent. Parent makes money and raises kids.
-While people give money to the government as taxes and make it running.
+While people give money to the government as taxes and keep it running.
 
 A: That makes sense. But the Republicans' opinion about the government looks very pessimistic.
 
