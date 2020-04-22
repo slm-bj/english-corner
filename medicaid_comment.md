@@ -1,6 +1,6 @@
 A: Hi [Bob], did you hear Affordable Care Act was struck down?
 
-B: Hi [Alice], it wasn't. You can still sign up it now.
+B: Hi [Alice], it wasn't. You can still sign it up now.
 
 A: Really? But the court decision in Texas gave me impression that Trump administration's abandoned it.
 
